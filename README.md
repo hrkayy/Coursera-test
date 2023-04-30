@@ -10,4 +10,4 @@ does it work?
 
 ans: y/n
 
-output: maybe
+output: y but after many reloads
